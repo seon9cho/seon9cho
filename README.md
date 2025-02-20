@@ -1,4 +1,6 @@
-Hi, I’m Seong. I'm currently pursuing PhD in Mathematics at Brigham Young University. I have a MS and BS in applied math, with research focus in machine learning.
+Hi, I'm Seong.
+
+I am an applied mathematics student, with research focus in machine learning.
 
 [comment]: <> (One of my new year's resolution for 2025 is to commit at least one change to this github repo everyday, no exceptions. Hopefully this way, by the end of this year, this repository can turn into a portfolio that contains all of my past and present works.)
 
