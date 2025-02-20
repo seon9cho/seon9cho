@@ -2,6 +2,8 @@
 
 I am an applied mathematics student, with research focus in machine learning. I have done various research related to deep learning, speeding up backpropagation using matrix and tensor calculus, language modeling, and so on. Coming from a math background, I have a deep understanding of linear algebra, matrix calculus, real analysis, and probability theory, and how they apply to deep learning and other machine learning algorithms. 
 
+***
+
 ### Projects
 
 This github repository contains many of the work I have done during school and personal/collaborated research. I've organized these projects into different categories here.
