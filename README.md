@@ -1,4 +1,4 @@
-Hi, I'm Seong.
+## Hi, I'm Seong.
 
 I am an applied mathematics student, with research focus in machine learning.
 
