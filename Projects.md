@@ -2,57 +2,187 @@
 
 ## Research Projects
 
-| Name | Description |
-| --- | --- |
-|[Source Separation](https://github.com/seon9cho/SourceSeparation)| |
-|[Image Encoder](https://github.com/seon9cho/ImageEncoder)| |
-|[Active Listener](https://github.com/seon9cho/ActiveListener)| |
-|[Deepfake Detection](https://github.com/seon9cho/DeepfakeDetection)| |
-|[Semi-supervised Translation]()| |
-|[speech2phone](https://github.com/seon9cho/speech2phone)| |
-|[Eigenvalue Approximation using Gershgorin Circle Theorem and Isospectral Matrix Reduction](https://github.com/seon9cho/EigenvalueApproximation)| |
+<table>
+  <thead>
+    <tr>
+      <th width=275>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/seon9cho/SourceSeparation">Source Separation</a></td>
+      <td>End-to-end autoencoder model using the transformer, with an encoder that can encode sentences into fixed-length latent vectors and a decoder that can reconstruct the sentences using image representations.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/ImageEncoder">Image Encoder</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/ActiveListener">Active Listener</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DeepfakeDetection">Deepfake Detection</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Semi-supervised Translation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/speech2phone">speech2phone</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/EigenvalueApproximation">Eigenvalue Approximation using Gershgorin Circle Theorem and Isospectral Matrix Reduction</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 ***
 
 ## Small Projects
 
-| Name | Description |
-| --- | --- |
-|[Boundary Value Problem Solver using Collocation](https://github.com/seon9cho/BVPSolverCollocation)| |
-|[IMDb Score Prediction](https://github.com/seon9cho/IMDbScorePrediction)| |
-|[Stochastic Differential Equations Modeling](https://github.com/seon9cho/EulerMaruyama)| |
-|[COVID Data Assimilation](https://github.com/seon9cho/COVID-DataAssimilation)
-|[4D-Var](https://github.com/seon9cho/4D-Var)| |
-|[Wildfire Modeling](https://github.com/seon9cho/WildFire)| |
-|[Proximal Policy Optimization]()| |
-|[Generative Adversarial Networks]()| |
-|[Transformer]()| |
-|[RNN Text Generator]()| |
-|[Style Transfer]()| |
-|[Cancer Detection]()| |
-|[MLP Backpropagation](https://github.com/seon9cho/MLP-Backprop)| |
-|[Decision Tree](https://github.com/seon9cho/DecisionTree)| |
-|[Clustering](https://github.com/seon9cho/Clustering)| |
-|[K-Nearest Neighbors](https://github.com/seon9cho/K-NearestNeighbors)| |
-|[Perceptron](https://github.com/seon9cho/Perceptron)| |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/seon9cho/BVPSolverCollocation">Boundary Value Problem Solver using Collocation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/IMDbScorePrediction">IMDb Score Prediction</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/EulerMaruyama">Stochastic Differential Equations Modeling</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/COVID-DataAssimilation">COVID Data Assimilation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/4D-Var">4D-Var</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/WildFire">Wildfire Modeling</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Proximal Policy Optimization</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Generative Adversarial Networks</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Transformer</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">RNN Text Generator</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Style Transfer</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#">Cancer Detection</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/MLP-Backprop">MLP Backpropagation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DecisionTree">Decision Tree</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/Clustering">Clustering</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/K-NearestNeighbors">K-Nearest Neighbors</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/Perceptron">Perceptron</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
 ## Coding Basics
 
-| Name | Description |
-| --- | --- |
-|[Discrete Math](https://github.com/seon9cho/DiscreteMath)| |
-|[Data Structures](https://github.com/seon9cho/DataStructures)| |
-|[Physical Models](https://github.com/seon9cho/PhysicalModels)| |
-|[Machine Learning](https://github.com/seon9cho/MachineLearning)| |
-|[Data Science Essentials](https://github.com/seon9cho/DataScienceEssentials)| |
-|[Signal Processing](https://github.com/seon9cho/SignalProcessing)| |
-|[Optimization](https://github.com/seon9cho/Optimization)| |
-|[Numerical Methods](https://github.com/seon9cho/NumericalMethods)| |
-|[Linear Algebra](https://github.com/seon9cho/LinearAlgebra)| |
-|[Tutorials](https://github.com/seon9cho/Tutorials)| |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DiscreteMath">Discrete Math</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DataStructures">Data Structures</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/PhysicalModels">Physical Models</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/MachineLearning">Machine Learning</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DataScienceEssentials">Data Science Essentials</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/SignalProcessing">Signal Processing</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/Optimization">Optimization</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/NumericalMethods">Numerical Methods</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/LinearAlgebra">Linear Algebra</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/Tutorials">Tutorials</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ***
