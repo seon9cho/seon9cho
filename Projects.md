@@ -12,11 +12,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/seon9cho/SourceSeparation">Source Separation</a></td>
-      <td>End-to-end autoencoder model using the transformer, with an encoder that can encode sentences into fixed-length latent vectors and a decoder that can reconstruct the sentences using image representations.</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/ImageEncoder">Image Encoder</a></td>
-      <td></td>
+      <td>End-to-end autoencoder model using the transformer, with an encoder that can encode sentences into fixed-length latent vectors and a decoder that can reconstruct the sentences using image representations.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/ActiveListener">Active Listener</a></td>
