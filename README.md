@@ -22,7 +22,7 @@ This github repository contains many of the work I have done during school and p
 Piano 🎹 | Running 🏃‍♂️ | Swimming 🏊‍♂️ | Cycling 🚴‍♂️ | Pickleball 🏓 | Snowboarding 🏂
 
 ---  
-Let's connect and build cool things together! 🚀
+Let's connect and build cool things together!
 
 [comment]: <> (One of my new year's resolution for 2025 is to commit at least one change to this github repo everyday, no exceptions. Hopefully this way, by the end of this year, this repository can turn into a portfolio that contains all of my past and present works.)
 
