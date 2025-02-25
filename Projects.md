@@ -20,11 +20,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/ActiveListener">Active Listener</a></td>
-      <td></td>
+      <td>Introduces the QRQ framework, where a voice assistant improves accuracy by asking clarifying questions before responding to user queries. Using the Information Acquisition (IA) Transformer Model, the system learns unsupervised, requiring only user queries to generate clarifications dynamically. This approach reduces errors and ambiguity, enhancing user interactions without relying on predefined intent-response pairs.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/DeepfakeDetection">Deepfake Detection</a></td>
-      <td></td>
+      <td>The goal of this work is to reliably distinguish deepfaked videos (and audio) from untampered videos (and audio). To improve coverage and accuracy, multiple approaches to deepfake detection are used (such as image classification of video frames and analyzing lip sync between audio and video). We found the most effective models were convolutional networks and LSTM's.</td>
     </tr>
     <tr>
       <td><a href="#">Semi-supervised Translation</a></td>
@@ -32,11 +32,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/speech2phone">speech2phone</a></td>
-      <td></td>
+      <td>This work enhances speech recognition by converting raw audio into discrete phonemes instead of direct language transcription. Using a combination of classical machine learning and deep neural networks, the model achieves 74.9% accuracy on phoneme classification with the TIMIT dataset and improves phoneme segmentation using reinforcement learning, achieving 9.398 ms error, 70.65% precision, and 88.62% recall.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/EigenvalueApproximation">Eigenvalue Approximation using Gershgorin Circle Theorem and Isospectral Matrix Reduction</a></td>
-      <td></td>
+      <td>This research explores a novel approach to approximating eigenvalues by leveraging Isospectral Matrix Reduction and Gershgorin’s Circle Theorem. By reducing a matrix while preserving its spectral properties and refining eigenvalue estimates using Gershgorin regions, this method offers an alternative perspective to traditional eigenvalue-solving algorithms.</td>
     </tr>
   </tbody>
 </table>
