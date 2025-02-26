@@ -58,20 +58,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/seon9cho/BVPSolverCollocation">Boundary Value Problem Solver using Collocation</a></td>
-      <td>Solving a Boundary Value Problem, an ODE problem with boundary conditions, by using collocation at Chebyshev nodes.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/seon9cho/IMDbScorePrediction">IMDb Score Prediction</a></td>
-      <td>Predicting IMDb score of movies using concrete data such as gross revenue, genre, and budget of the movie.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/seon9cho/EulerMaruyama">Stochastic Differential Equations Modeling</a></td>
-      <td>Predicting the future value of the stock using the model $\frac{dS}{S} = \mu dt + \sigma dW$ with the Euler-Maruyama method and the Milstein method (S is the value of the stock, $\mu$ is a drift constant, $\sigma$ is the volatility constant, and $W$ is a one dimensional Brownian motion).</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/seon9cho/COVID-DataAssimilation">COVID Data Assimilation</a></td>
-      <td></td>
+      <td>Predict COVID with data assimilation techniques. The data is modeled as an SIR model, which is then assimilated with the adjoint method using calculus of variation.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/4D-Var">4D-Var</a></td>
@@ -80,6 +68,18 @@
     <tr>
       <td><a href="https://github.com/seon9cho/WildFire">Wildfire Modeling</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/IMDbScorePrediction">IMDb Score Prediction</a></td>
+      <td>Predict IMDb score of movies using concrete data such as gross revenue, genre, and budget of the movie.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/EulerMaruyama">Stochastic Differential Equations Modeling</a></td>
+      <td>Predict the future value of the stock using the model $\frac{dS}{S} = \mu dt + \sigma dW$ with the Euler-Maruyama method and the Milstein method.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/BVPSolverCollocation">Boundary Value Problem Solver using Collocation</a></td>
+      <td>Solve Boundary Value Problem, an ODE problem with boundary conditions, by using collocation at Chebyshev nodes.</td>
     </tr>
     <tr>
       <td><a href="#">Proximal Policy Optimization</a></td>
