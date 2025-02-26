@@ -20,11 +20,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/ActiveListener">Active Listener</a></td>
-      <td>Introduces the QRQ framework, where a voice assistant improves accuracy by asking clarifying questions before responding to user queries. Using the Information Acquisition (IA) Transformer Model, the system learns unsupervised, requiring only user queries to generate clarifications dynamically. This approach reduces errors and ambiguity, enhancing user interactions without relying on predefined intent-response pairs.</td>
+      <td>A voice assistant that improves accuracy by asking clarifying questions before responding to user queries. The system learns unsupervised, requiring only user queries to generate clarifications dynamically. This approach reduces errors and ambiguity, enhancing user interactions without relying on predefined intent-response pairs.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/DeepfakeDetection">Deepfake Detection</a></td>
-      <td>The goal of this work is to reliably distinguish deepfaked videos (and audio) from untampered videos (and audio). To improve coverage and accuracy, multiple approaches to deepfake detection are used (such as image classification of video frames and analyzing lip sync between audio and video). We found the most effective models were convolutional networks and LSTM's.</td>
+      <td>The goal of this work is to reliably distinguish deepfaked videos from untampered videos. To improve coverage and accuracy, multiple approaches to deepfake detection are used&mdash;such as image classification of video frames and analyzing lip sync between audio and video).</td>
     </tr>
     <tr>
       <td><a href="#">Semi-supervised Translation</a></td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/speech2phone">speech2phone</a></td>
-      <td>This work enhances speech recognition by converting raw audio into discrete phonemes instead of direct language transcription. Using a combination of classical machine learning and deep neural networks, the model achieves 74.9% accuracy on phoneme classification with the TIMIT dataset and improves phoneme segmentation using reinforcement learning, achieving 9.398 ms error, 70.65% precision, and 88.62% recall.</td>
+      <td>This work extends speech recognition problem by converting raw audio into discrete phonemes instead of direct language transcription. For classifying phonemes, several classical machine learning techniques such as dimensionality reduction is used with deep neural nets. Phoneme segmentation of raw audio is approached with reinforcement learning model.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/EigenvalueApproximation">Eigenvalue Approximation using Gershgorin Circle Theorem and Isospectral Matrix Reduction</a></td>
