@@ -63,11 +63,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/4D-Var">4D-Var</a></td>
-      <td></td>
+      <td>Simulate Lorenz-63 model by derivation of strong-constraint 4D-Var algorithm. It is then applied to predict real world weather data with temperature, humidity, and pressure.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/WildFire">Wildfire Modeling</a></td>
-      <td></td>
+      <td>Model the behavior and spread of wildfire using the Crank-Nicholson Scheme.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/IMDbScorePrediction">IMDb Score Prediction</a></td>
