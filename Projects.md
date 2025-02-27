@@ -107,15 +107,15 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/MLP-Backprop">MLP Backpropagation</a></td>
-      <td></td>
+      <td>Ground-up implementation of the forward-propagation and backward-propagation algorithm for a simple feedforward multi-layer perceptron with two hidden layers</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/DecisionTree">Decision Tree</a></td>
-      <td></td>
+      <td>Ground-up implementation of a decision tree model that uses the ID3 algorithm to calculate information gain to split at each stage.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/Clustering">Clustering</a></td>
-      <td></td>
+      <td>Ground-up implementation of the K-Means algorithm and the Hierarchical Agglomerative Clustering algorithm for clustering the Iris data.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/K-NearestNeighbors">K-Nearest Neighbors</a></td>
