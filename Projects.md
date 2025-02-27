@@ -107,7 +107,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/MLP-Backprop">MLP Backpropagation</a></td>
-      <td>Ground-up implementation of the forward-propagation and backward-propagation algorithm for a simple feedforward multi-layer perceptron with two hidden layers</td>
+      <td>Ground-up implementation of the forward-propagation and backward-propagation algorithm for a simple feedforward multi-layer perceptron with two hidden layers and sigmoid activation.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/DecisionTree">Decision Tree</a></td>
@@ -115,15 +115,15 @@
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/Clustering">Clustering</a></td>
-      <td>Ground-up implementation of the K-Means algorithm and the Hierarchical Agglomerative Clustering algorithm for clustering the Iris data.</td>
+      <td>Ground-up implementation of the K-Means algorithm and the Hierarchical Agglomerative Clustering algorithm.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/K-NearestNeighbors">K-Nearest Neighbors</a></td>
-      <td></td>
+      <td>Ground-up implementation of the K-Nearest Neighbors algorithm.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/Perceptron">Perceptron</a></td>
-      <td></td>
+      <td>Ground-up implementation of the perceptron model, which is the foundation for deep neural networks.</td>
     </tr>
   </tbody>
 </table>
@@ -135,7 +135,7 @@
 <table>
   <thead>
     <tr>
-      <th>Name</th>
+      <th width=275>Name</th>
       <th>Description</th>
     </tr>
   </thead>
