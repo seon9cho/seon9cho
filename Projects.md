@@ -83,11 +83,11 @@
     </tr>
     <tr>
       <td><a href="#">Proximal Policy Optimization</a></td>
-      <td></td>
+      <td>Implementation of the Proximal Policy Optimization model as described from this paper. The model is trained to learn and play this game.</td>
     </tr>
     <tr>
       <td><a href="#">Generative Adversarial Networks</a></td>
-      <td></td>
+      <td>Implementation of the Generative Adversarial Networks as described from this paper. The model is trained on celeb data to generate faces. </td>
     </tr>
     <tr>
       <td><a href="#">Transformer</a></td>
