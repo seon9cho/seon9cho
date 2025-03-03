@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td><a href="#">Transformer</a></td>
-      <td>Implementation of the <a href="https://arxiv.org/abs/1706.03762">Transformer</a> architecture, following the <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">Annotated Transformer</a>. The model is trained to translated between English and Spanish using General Conference data.</td>
+      <td>Implementation of the <a href="https://arxiv.org/abs/1706.03762">Transformer</a> architecture, following the <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">Annotated Transformer</a>. The model is trained to translate between English and Spanish using General Conference data.</td>
     </tr>
     <tr>
       <td><a href="#">RNN Text Generator</a></td>
