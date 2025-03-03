@@ -95,15 +95,15 @@
     </tr>
     <tr>
       <td><a href="#">RNN Text Generator</a></td>
-      <td></td>
+      <td>Training recurrent neural nets, specifically the <a href="https://arxiv.org/abs/1412.3555">Gated Recurrent Unit (GRU)</a> to predict the next token. For this project, the text corpus consists of Unicode characters, and character-level tokenization is used.</td>
     </tr>
     <tr>
       <td><a href="#">Style Transfer</a></td>
-      <td></td>
+      <td>Implementation of style transfer as outlined by <a href="https://arxiv.org/abs/1508.06576">this paper</a>. The artistic style of a painting is transferred to a real-world photo using a pre-trained CNN.</td>
     </tr>
     <tr>
       <td><a href="#">Cancer Detection</a></td>
-      <td></td>
+      <td>Using a convolutional U-net to mask areas of cellular images that are tumorous. The model is trained using a labeled cancer dataset.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/MLP-Backprop">MLP Backpropagation</a></td>
