@@ -141,44 +141,97 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/seon9cho/DiscreteMath">Discrete Math</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/seon9cho/DataStructures">Data Structures</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/seon9cho/PhysicalModels">Physical Models</a></td>
-      <td></td>
+      <td>Implementation of various physical models, including (but not limited to):
+        <ul>
+          <li>IVP</li>
+          <li>Inverted Pendulum</li>
+          <li>Diffusion model</li>
+          <li>SIR model</li>
+          <li>Finite Element</li>
+          <li>Heat Flow</li>
+          <li>Lorenz Equations</li>
+          <li>Poisson Equations</li>
+          <li>Wave Equations</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/MachineLearning">Machine Learning</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/seon9cho/DataScienceEssentials">Data Science Essentials</a></td>
-      <td></td>
+      <td>Implementation of various machine learning algorithms, including (but not limited to):
+        <ul>
+          <li>Reinforcement Learning</li>
+          <li>Speech Recognition</li>
+          <li>Markov Chains</li>
+          <li>Nearest Neighbors</li>
+          <li>K-Means</li>
+          <li>Gibbs sampling and Linear Discriminant Analysis</li>
+          <li>Principal Component Analysis</li>
+          <li>PageRank Algorithm</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/SignalProcessing">Signal Processing</a></td>
-      <td></td>
+      <td>Repo containing work related to signal processing, such as implementing Discrete Fourier Transform to convert signal data from time domain to frequency domain, and wavelets to process images. </td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/Optimization">Optimization</a></td>
-      <td></td>
+      <td>Implementation of various optimization methods, such as:
+        <ul>
+          <li>Gaussian Quadratures</li>
+          <li>Linear and Quadratic Linear Point method</li>
+          <li>Gradient method</li>
+          <li>Simplex algorithm</li>
+          <li>Newton's method</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/NumericalMethods">Numerical Methods</a></td>
-      <td></td>
+      <td>Implementation of various numerical methods, such as:
+        <ul>
+          <li>Iterative solvers</li>
+          <li>Differentiation</li>
+          <li>Integration</li>
+          <li>Drazin Inverse</li>
+          <li>Conditioning and stability of numerical methods</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DataStructures">Data Structures</a></td>
+      <td>Implementation of various data structures, such as:
+        <ul>
+          <li>Linked Lists</li>
+          <li>Binary Search Tree</li>
+          <li>AVL Tree</li>
+          <li>Quicksort algorithm</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DiscreteMath">Discrete Math</a></td>
+      <td>Repo containing lab work done from class CS 236 - Discrete mathematics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seon9cho/DataScienceEssentials">Data Science Essentials</a></td>
+      <td>Basic usage of Pandas framework, webscraping, and databases.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/LinearAlgebra">Linear Algebra</a></td>
-      <td></td>
+      <td>Python implementation of basic linear algebra algorithms, such as:
+        <ul>
+          <li>Computing eigenvalues</li>
+          <li>QR Decomposition</li>
+          <li>Singular Value Decomposition</li>
+          <li>Least squares</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/Tutorials">Tutorials</a></td>
-      <td></td>
+      <td>Basic Python usage tutorial and its essential libraries, such as NumPy and Matplotlib.</td>
     </tr>
   </tbody>
 </table>
