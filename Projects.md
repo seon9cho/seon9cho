@@ -1,6 +1,10 @@
 # Projects
 
+This is where I have organized my projects, which contains a compilation of various coding and research endeavors, showcasing work in machine learning, numerical methods, optimization, and other computational fields.
+
 ## Research Projects
+
+These projects represent the research projects I've done on my own, or collaborated with others. The work mainly consists of in-depth explorations of complex topics, often involving novel methodologies or advanced techniques in machine learning, signal processing, and mathematical modeling.
 
 <table>
   <thead>
