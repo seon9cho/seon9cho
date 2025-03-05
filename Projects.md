@@ -4,7 +4,7 @@ This is where I have organized my projects, which contains a compilation of vari
 
 ## Research Projects
 
-These projects represent the research projects I've done on my own, or collaborated with others. The work mainly consists of in-depth explorations of complex topics, often involving novel methodologies or advanced techniques in machine learning, signal processing, and mathematical modeling.
+These projects showcase research I have conducted independently or in collaboration with others. They primarily involve in-depth explorations of complex topics, often involving novel methodologies or advanced techniques in machine learning, signal processing, and mathematical modeling.
 
 <table>
   <thead>
@@ -52,6 +52,8 @@ These projects represent the research projects I've done on my own, or collabora
 ***
 
 ## Small Projects
+
+These are smaller-scale projects focused on implementing and applying existing methods and models. Each project is built from the ground up and serves as a reference for more advanced research topics. The work primarily involves developing deep learning models, various machine learning algorithms, and physical system modeling.
 
 <table>
   <thead>
@@ -134,7 +136,9 @@ These projects represent the research projects I've done on my own, or collabora
 
 ***
 
-## Coding Basics
+## Foundational Work
+
+These repositories showcase much of the lab work I completed while learning to code in school. Some projects helped build a foundation in fundamental computer science concepts, such as data structures, while most others focused on applying programming to applied mathematics.
 
 <table>
   <thead>
