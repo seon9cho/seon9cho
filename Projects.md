@@ -31,8 +31,8 @@ These projects showcase research I have conducted independently or in collaborat
       <td>The goal of this work is to reliably distinguish deepfaked videos from untampered videos. To improve coverage and accuracy, multiple approaches to deepfake detection are used&mdash;such as image classification of video frames and analyzing lip sync between audio and video).</td>
     </tr>
     <tr>
-      <td><a href="#">Semi-supervised Translation</a></td>
-      <td></td>
+      <td><a href="https://github.com/seon9cho/SemisupervisedTranslation">Semi-supervised Translation</a></td>
+      <td>With recent advancements in semi-supervised and unsupervised learning methods, this project aims to explore training a semi-supervised machine translation system by first independently training language models for two different languages and then aligning them using a small number of supervised examples.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/speech2phone">speech2phone</a></td>
