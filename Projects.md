@@ -16,7 +16,7 @@ These projects showcase research I have conducted independently or in collaborat
   <tbody>
     <tr>
       <td><a href="https://github.com/seon9cho/SourceSeparation">Source Separation</a></td>
-      <td>Separating voices in an audio</td>
+      <td>Unsupervised source (voice) separation of audio</td>
     </tr>
     <tr>
       <td><a href="https://github.com/seon9cho/ImageEncoder">Image Encoder</a></td>
