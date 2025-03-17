@@ -26,6 +26,8 @@ Let's connect and build cool things together!
 
 [comment]: <> (One of my new year's resolution for 2025 is to commit at least one change to this github repo everyday, no exceptions. Hopefully this way, by the end of this year, this repository can turn into a portfolio that contains all of my past and present works.)
 
+[comment]: <> (March 16 2025 I haven't been very dilligent in making good progress in updating my github the past couple weeks. Starting tomorrow, I will make it a priority again.)
+
 <!---
 seon9cho/seon9cho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
