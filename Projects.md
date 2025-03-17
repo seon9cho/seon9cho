@@ -39,7 +39,7 @@ These projects showcase research I have conducted independently or in collaborat
       <td>This work extends speech recognition problem by converting raw audio into discrete phonemes instead of direct language transcription. For classifying phonemes, several classical machine learning techniques such as dimensionality reduction is used with deep neural nets. Phoneme segmentation of raw audio is approached with reinforcement learning model.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/seon9cho/EigenvalueApproximation">Eigenvalue Approximation using Gershgorin Circle Theorem and Isospectral Matrix Reduction</a></td>
+      <td><a href="https://github.com/seon9cho/EigenvalueApproximation">Eigenvalue Approximation</a></td>
       <td>This research explores a novel approach to approximating eigenvalues by leveraging Isospectral Matrix Reduction and Gershgorin’s Circle Theorem. By reducing a matrix while preserving its spectral properties and refining eigenvalue estimates using Gershgorin regions, this method offers an alternative perspective to traditional eigenvalue-solving algorithms.</td>
     </tr>
   </tbody>
