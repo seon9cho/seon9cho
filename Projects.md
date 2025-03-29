@@ -92,7 +92,7 @@ These are smaller-scale projects focused on implementing and applying existing m
       <td>Implementation of the Proximal Policy Optimization model as described in <a href="https://arxiv.org/abs/1707.06347">this paper</a>. The model is trained to learn <a href="https://www.gymlibrary.dev/environments/classic_control/cart_pole/">CartPole from the gym library</a>, a classical control problem.</td>
     </tr>
     <tr>
-      <td><a href="#">Generative Adversarial Networks</a></td>
+      <td><a href="https://github.com/seon9cho/GenerativeAdversarialNetworks">Generative Adversarial Networks</a></td>
       <td>Implementation of the Generative Adversarial Networks as described from <a href="https://arxiv.org/abs/1406.2661">this paper</a>. The generative and discrimative models are trained on CelebA data, after which the generative model is used to generate new faces.</td>
     </tr>
     <tr>
