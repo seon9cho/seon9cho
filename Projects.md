@@ -96,7 +96,7 @@ These are smaller-scale projects focused on implementing and applying existing m
       <td>Implementation of the Generative Adversarial Networks as described from <a href="https://arxiv.org/abs/1406.2661">this paper</a>. The generative and discrimative models are trained on CelebA data, after which the generative model is used to generate new faces.</td>
     </tr>
     <tr>
-      <td><a href="#">Transformer</a></td>
+      <td><a href="https://github.com/seon9cho/Transformer">Transformer</a></td>
       <td>Implementation of the <a href="https://arxiv.org/abs/1706.03762">Transformer</a> architecture, following the <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">Annotated Transformer</a>. The model is trained to translate between English and Spanish using General Conference data.</td>
     </tr>
     <tr>
