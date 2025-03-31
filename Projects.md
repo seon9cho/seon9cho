@@ -100,7 +100,7 @@ These are smaller-scale projects focused on implementing and applying existing m
       <td>Implementation of the <a href="https://arxiv.org/abs/1706.03762">Transformer</a> architecture, following the <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">Annotated Transformer</a>. The model is trained to translate between English and Spanish using General Conference data.</td>
     </tr>
     <tr>
-      <td><a href="#">RNN Text Generator</a></td>
+      <td><a href="https://github.com/seon9cho/RecurrentNeuralNetwork">Recurrent Neural Network</a></td>
       <td>Training recurrent neural nets, specifically the <a href="https://arxiv.org/abs/1412.3555">Gated Recurrent Unit (GRU)</a> to predict the next token. For this project, the text corpus consists of Unicode characters, and character-level tokenization is used.</td>
     </tr>
     <tr>
