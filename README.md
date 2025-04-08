@@ -2,6 +2,7 @@
 
 I am an applied mathematics student with a strong research focus on machine learning. My work spans various areas of deep learning, including accelerating backpropagation through matrix and tensor calculus, language modeling, and more. With a solid foundation in mathematics, I have a deep understanding of linear algebra, matrix calculus, real analysis, and probability theory, as well as their applications in deep learning and other machine learning algorithms.
 
+
 ***
 
 ### 💻 Experience  
