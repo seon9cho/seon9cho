@@ -19,7 +19,7 @@ This github repository contains many of the work I have done during school and p
 **Natural Languages:** Fluent in English & Korean
 
 ### ⚡ Interests  
-Piano 🎹 &nbsp;|&nbsp; Running 🏃‍♂️ &nbsp;|&nbsp; Swimming 🏊‍♂️ &nbsp;|&nbsp; Cycling 🚴‍♂️ &nbsp;|&nbsp; Pickleball 🏓 &nbsp;|&nbsp; Snowboarding 🏂
+Piano 🎹 &nbsp;|&nbsp; Running 🏃‍♂️ &nbsp;|&nbsp; Swimming 🏊‍♂️ &nbsp;|&nbsp; Cycling 🚴‍♂️ &nbsp;|&nbsp; Pickleball 🏓 &nbsp;|&nbsp; Snowboarding 🏂 &nbsp;|&nbsp; Gaming 🎮
 
 ---  
 Let's connect and build cool things together!
