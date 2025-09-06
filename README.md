@@ -5,10 +5,10 @@ I’m a machine learning researcher and applied mathematician with experience br
 ***
 
 ### 💻 Experience  
-- **Graduate Researcher, ML Research Group (BYU)** – led projects on accelerating backpropagation, novel language modeling approaches, and unsupervised source separation.
-- **Machine Learning Engineer Intern, Pulse Labs** – Improved Alexa/Google Assistant query handling with NLP/ML analysis.  
-- **Machine Learning Research Intern, Cobalt Speech** – Reduced ASR WER from 24% → 6% on noisy data and built NLU models for manufacturing systems.  
-- **Instructor, BYU** – Taught machine learning research methods, linear algebra (Python-based), and Calculus I.  
+**Graduate Researcher, ML Research Group (BYU)** – led projects on accelerating backpropagation, novel language modeling approaches, and unsupervised source separation.  
+**Machine Learning Engineer Intern, Pulse Labs** – Improved Alexa/Google Assistant query handling with NLP/ML analysis.  
+**Machine Learning Research Intern, Cobalt Speech** – Reduced ASR WER from 24% → 6% on noisy data and built NLU models for manufacturing systems.  
+**Instructor, BYU** – Taught machine learning research methods, linear algebra (Python-based), and Calculus I.  
 
 ### 📄 Publications  
 **[Decoupling the Backward Pass Using Abstracted Gradients](https://www.scitepress.org/PublicationsDetail.aspx?ID=/iTIAF48AyA=&t=1)** – ICAART 2024
