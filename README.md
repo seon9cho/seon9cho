@@ -1,11 +1,14 @@
 ## Hi, I'm Seong 👋
 
-I am an applied mathematics student with a strong research focus on machine learning. My work spans various areas of deep learning, including accelerating backpropagation through matrix and tensor calculus, language modeling, and more. With a solid foundation in mathematics, I have a deep understanding of linear algebra, matrix calculus, real analysis, and probability theory, as well as their applications in deep learning and other machine learning algorithms. I believe my background in applied mathematics gives me an edge in solving complex problems in all domains of AI/ML.
+I’m a machine learning researcher and applied mathematician with experience bridging academic research and real-world AI applications. My work spans **natural language processing, conversational AI, speech technologies, and generative modeling**, with a strong foundation in applied mathematics (linear algebra, matrix calculus, probability theory, numerical analysis). I enjoy tackling complex problems at the intersection of theory and practice, from optimizing backpropagation methods to designing novel neural network architectures.
 
 ***
 
 ### 💻 Experience  
-I have been an Instructor at BYU since 2021, teaching calculus and an online linear algebra coding course in Python. Prior to this, I worked as a machine learning engineer intern at Pulse Labs from 2020 to 2021, where I analyzed voice assistant query data for Alexa and Google Assistant to improve user experiences. In 2018, I was a machine learning research intern at Cobalt Speech, where I trained ASR models for air traffic control drones and significantly improved performance. From 2015 to 2020, I worked as a research assistant at BYU, developing ML models for language encoding, finding eigenvalues, and earthquake prediction. 
+- **Graduate Researcher, ML Research Group (BYU)** – led projects on accelerating backpropagation, novel language modeling approaches, and unsupervised source separation.
+- **Machine Learning Engineer Intern, Pulse Labs** – Improved Alexa/Google Assistant query handling with NLP/ML analysis.  
+- **Machine Learning Research Intern, Cobalt Speech** – Reduced ASR WER from 24% → 6% on noisy data and built NLU models for manufacturing systems.  
+- **Instructor, BYU** – Taught machine learning research methods, linear algebra (Python-based), and Calculus I.  
 
 ### 📄 Publications  
 **[Decoupling the Backward Pass Using Abstracted Gradients](https://www.scitepress.org/PublicationsDetail.aspx?ID=/iTIAF48AyA=&t=1)** – ICAART 2024
@@ -15,8 +18,10 @@ I have been an Instructor at BYU since 2021, teaching calculus and an online lin
 This github repository contains many of the work I have done during school and personal/collaborated research. I've organized these projects into different categories [here](https://github.com/seon9cho/seon9cho/blob/main/Projects.md).
 
 ### 🛠️ Skills  
-**Languages:** Python, PyTorch, TensorFlow; Familiar with C++ & Java  
-**Natural Languages:** Fluent in English & Korean
+**Programming:** Python, MATLAB, C++, Java, SQL  
+**Frameworks:** PyTorch, TensorFlow, Hugging Face, scikit-learn, spaCy  
+**Specialties:** NLP, Generative AI, Speech/ASR, Deep Learning  
+**Languages:** Fluent in English & Korean  
 
 ### ⚡ Interests  
 Piano 🎹 &nbsp;|&nbsp; Running 🏃‍♂️ &nbsp;|&nbsp; Swimming 🏊‍♂️ &nbsp;|&nbsp; Cycling 🚴‍♂️ &nbsp;|&nbsp; Pickleball 🏓 &nbsp;|&nbsp; Snowboarding 🏂 &nbsp;|&nbsp; Gaming 🎮
