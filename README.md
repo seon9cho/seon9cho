@@ -5,10 +5,8 @@ I’m a machine learning researcher and applied mathematician with experience br
 ***
 
 ### 💻 Experience  
-**Graduate Researcher, ML Research Group (BYU)** – led projects on accelerating backpropagation, novel language modeling approaches, and unsupervised source separation.  
-**Machine Learning Engineer Intern, Pulse Labs** – Improved Alexa/Google Assistant query handling with NLP/ML analysis.  
-**Machine Learning Research Intern, Cobalt Speech** – Reduced ASR WER from 24% → 6% on noisy data and built NLU models for manufacturing systems.  
-**Instructor, BYU** – Taught machine learning research methods, linear algebra (Python-based), and Calculus I.  
+Since 2021, I have been a Graduate Researcher in the Machine Learning Research Group at BYU, where I co-authored a peer-reviewed paper (ICAART 2024) and led projects on backpropagation optimization, source separation, and novel language modeling approaches. I was also an Instructor at BYU, teaching machine learning research methods, linear algebra in Python, and Calculus. Previously, I was a Machine Learning Engineer Intern at Pulse Labs (2020–2021), where I analyzed Alexa and Google Assistant query data to improve user interactions, and a Research Intern at Cobalt Speech (2018), where I reduced ASR word error rate from 24% to 6% on noisy radio data and developed NLU models for manufacturing systems. Earlier in my career, I worked as an Undergraduate Researcher in applied mathematics, building ML models for graph eigenvalues and earthquake prediction.
+
 
 ### 📄 Publications  
 **[Decoupling the Backward Pass Using Abstracted Gradients](https://www.scitepress.org/PublicationsDetail.aspx?ID=/iTIAF48AyA=&t=1)** – ICAART 2024
