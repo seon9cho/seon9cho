@@ -1,10 +1,10 @@
 # Projects
 
-This is where I have organized my projects, which contains a compilation of various coding and research endeavors, showcasing work in machine learning, numerical methods, optimization, and other computational fields.
+This is where I have organized my projects, which contains a compilation of various coding and research endeavors, demonstrating work in machine learning, numerical methods, optimization, and other computational fields.
 
 ## Research Projects
 
-These projects showcase research I have conducted independently or in collaboration with others. They primarily involve in-depth explorations of complex topics, often involving novel methodologies or advanced techniques in machine learning, signal processing, and mathematical modeling.
+These projects are research I have conducted independently or in collaboration with others. They primarily involve in-depth explorations of complex topics, often involving novel methodologies or advanced techniques in machine learning, signal processing, and mathematical modeling.
 
 <table>
   <thead>
@@ -138,7 +138,7 @@ These are smaller-scale projects focused on implementing and applying existing m
 
 ## Foundational Work
 
-These repositories showcase much of the lab work I completed while learning to code in school. Some projects helped build a foundation in fundamental computer science concepts, such as data structures, while most others focused on applying programming to applied mathematics.
+These repositories contain much of the lab work I completed while learning to code in college. Some projects helped build a foundation in fundamental computer science concepts, such as data structures, while most others focused on applying programming to applied mathematics.
 
 <table>
   <thead>
